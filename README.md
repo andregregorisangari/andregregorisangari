@@ -15,12 +15,11 @@
 </p>
 
 <p align="center">
- <a href="https://instagram.com/andre_kiboo" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Andre Gregori Sangari" />
- </a> 
- <a href="https://facebook.com/iamanddz" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Andre Gregori Sangari"  />
-  </a> 
+  <a href="https://instagram.com/andre_kiboo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/423927130347536384" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andresangari12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andregregs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </p>
 <br />
 
@@ -36,9 +35,14 @@
 
 </p>
 
-<br/>
-<br/>
-<br/>
+----
+### 📊 Github Stats
+<p align="left">
+<a href="https://github.com/hafizcode02">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andregregorisangari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andregregorisangari&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p
 
 <!-- Language Section -->
 # Language and Tools
