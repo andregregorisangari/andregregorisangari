@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Bangkit Academy Cloud Computing Cohort For 2023 Batch 2 」
+    「 Bangkit Academy 2023 H2 Graduate - Cloud Computing 」
     <br>
     <br>
   </samp>
